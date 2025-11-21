@@ -1,1 +1,10 @@
-
+numpy
+pandas
+opencv-python
+matplotlib
+torch
+ultralytics
+scipy
+scikit-image
+networkx
+shapely
